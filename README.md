@@ -6,11 +6,9 @@ Projet académique combinant Machine Learning, Explainable AI et interface React
 
 ## 👥 Équipe
 
-| Membre | Rôle                             |
-| ------ | -------------------------------- |
-| Yosra  | Frontend (React)                 |
-| Inès   | Business Intelligence (Power BI) |
-| Fayfa  | IA — ML / XAI / Agent Génératif  |
+- Yosra Gadhgadhi
+- Inès Dabbebi
+- Fayfa Hachicha
 
 ---
 
