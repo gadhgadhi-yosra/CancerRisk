@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+env/
+data/
+pipeline/
+__pycache__/
+*.pkl
+*.pyc
+*.csv
